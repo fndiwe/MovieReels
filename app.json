@@ -1,0 +1,7 @@
+{
+  "name": "MovieReels",
+  "displayName": "MovieReels",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-6558254583092184~9693766114"
+  }
+}

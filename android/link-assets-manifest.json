@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/badboys.ttf",
+      "sha1": "1dbd0b201cfe455d093ccff6b67b1f174d3d3fd2"
+    },
+    {
+      "path": "assets/fonts/batman.ttf",
+      "sha1": "970fa26afb211a3b67188799e891233239c4d681"
+    },
+    {
+      "path": "assets/fonts/godofwar.ttf",
+      "sha1": "c7c8e15e37633ff73a7019b6c4a44c86f86f401a"
+    },
+    {
+      "path": "assets/fonts/mael.ttf",
+      "sha1": "9625e4df993de354a3503d3acd6358f8dcc4441f"
+    },
+    {
+      "path": "assets/fonts/space_mono_regular.ttf",
+      "sha1": "fae3a5a43b50e0408fd61e14383d94a023d332b0"
+    }
+  ]
+}
